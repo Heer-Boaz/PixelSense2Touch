@@ -88,7 +88,7 @@ namespace PixelSense2Touch {
 
 		private void HandleAboutRequest(object sender, EventArgs e) {
 			// TODO: Remove hardcoded string here
-			MessageBox.Show("Surface2Touch created by Boaz Pat-El (http://www.boazpatel.com).\nVersion: 1.0a (Aug 2017)\n\nSee <INSERT GITHUB> for latest version and details.", "About Surface2Touch", MessageBoxButtons.OK, MessageBoxIcon.Information);
+			MessageBox.Show("Surface2Touch created by Boaz Pat-El (http://www.boazpatel.com).\nVersion: 1.0a (Aug 2017)\n\nSee https://github.com/Heer-Boaz/PixelSense2Touch for latest version and details.", "About Surface2Touch", MessageBoxButtons.OK, MessageBoxIcon.Information);
 		}
 
 		private void HandleExitRequest(object sender, EventArgs e) {

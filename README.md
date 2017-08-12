@@ -2,7 +2,7 @@
 https://github.com/Heer-Boaz/PixelSense2Touch/releases/tag/v1.0a
 
 # PixelSense2Touch
-App for converting input from the Microsoft PixelSense 1.0 (Microsoft Surface Table) to touch input for Windows 10. The aim is to allow a user to operate the PixelSense as she would a tablet.
+App that adds touch support to Microsoft PixelSense 1.0 (Microsoft Surface) that runs on Windows 8+.
 In its current state, it is only able to recognize a single finger and some basic (i.e. tap and scroll) interactions.
 Future work will need to also allow:
 - Multitouch;

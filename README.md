@@ -1,5 +1,5 @@
 # Latest version binary download
-https://github.com/Heer-Boaz/PixelSense2Touch/releases/tag/v1.0a
+https://github.com/Heer-Boaz/PixelSense2Touch/releases/tag/v2.0
 
 # PixelSense2Touch
 App that adds touch support to Microsoft PixelSense 1.0 (Microsoft Surface) that runs on Windows 8+.

@@ -48,7 +48,7 @@ namespace PixelSenseToTouchLib
             System.Diagnostics.Debug.WriteLine($"[OK]");
 
             // Init the InputSimulator
-            System.Diagnostics.Debug.Write($"{DateTime.Now}: Init input simulaOr... ");
+            System.Diagnostics.Debug.Write($"{DateTime.Now}: Init input simulatOr... ");
             this.inputSimulator = new InputSimulator();
             System.Diagnostics.Debug.WriteLine($"[OK]");
 
